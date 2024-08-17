@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = s3://datamanagement-demo-ik-sagar/dvc-store
+    url = s3://data-management-demo-ik-sagar/dvc-store
